@@ -1,0 +1,4 @@
+services:
+    controller.dashboard:
+        class: DomainsBundle\Controller\DashboardController
+        arguments: []
