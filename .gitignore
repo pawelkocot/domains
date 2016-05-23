@@ -1,5 +1,6 @@
 /app/config/parameters.yml
 /bin/
+/.idea/
 /build/
 /composer.phar
 /vendor/
